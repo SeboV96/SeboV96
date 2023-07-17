@@ -3,7 +3,7 @@
 
 I am passionate about technology and I love interact with it. Being able to create new things seems incredible to me.
 
-I am looking for my first job as a Full Stack Developer, I have the management of technologies such as:
+I have the management of technologies such as:
 •HTML
 • CSS
 • JavaScript
